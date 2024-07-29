@@ -1,5 +1,7 @@
 # Menu App
  A menu app that holds all of the projects I worked on this summer
+
+ ![Alt Text](
  
 ## About Me
 My name is Ziaire Braggs and I'm 17 years old. I'm a visual artist and a genius at the Hidden Genius Project.
